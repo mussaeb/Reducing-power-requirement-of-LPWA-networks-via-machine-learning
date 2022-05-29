@@ -1,0 +1,5 @@
+1. To train with SVR: 
+	$: python3 prediction_train.py --model_type='svr'
+
+2. To train with DNN: 
+	$: python3 prediction_train.py --model_type='deepnn'
