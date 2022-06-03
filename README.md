@@ -9,7 +9,10 @@
 
 ## To Run the code :
 
+	pip install -r requirements.txt
+
 	#  Training with SVR: 
+
 		python3 prediction_train.py --model_type='svr'
 
 
