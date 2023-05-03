@@ -7,7 +7,7 @@
 ### Support Vector Regression(SVR) and Deep Neural Network(DNN) ML Algorithms are used to reduce, measure and compare power consumption of LPWAN Networks on IoT devices.
 
 
-## To Run the code :
+## To Excute the code :
 
 	pip install -r requirements.txt
 
